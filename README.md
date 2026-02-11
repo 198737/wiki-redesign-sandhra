@@ -19,8 +19,8 @@ https://www.wikipedia.org/
 ---
 
 ## 🚀 Live Demo
+ https://198737.github.io/wiki-redesign-sandhra/
 
-https://yourusername.github.io/wikinova-glass/
 
 ---
 
